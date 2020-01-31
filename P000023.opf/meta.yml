@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་ཉམས་སུ་ལེན་པའི་རིམ་པ་མུན་སེལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  sku: LS-ZHI-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Lamp That Dispels Darkness:The Stages of Practice for the Path of Prajñāpāramitā
+    bo: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་ཉམས་སུ་ལེན་པའི་རིམ་པ་མུན་སེལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Zhije Series–  Book 1
+    bo: ཞི་བྱེད།–  དེབ། ༡
+  author:
+    en: Rongton Sheja Kunrig
+    bo: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-ZHI-01
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-ZHI-01.epub
+  description:
+    en: ''
+    bo: ''
