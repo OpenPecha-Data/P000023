@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000023
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལམ་ཉམས་སུ་ལེན་པའི་རིམ་པ་མུན་སེལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
-  sku: LS-ZHI-01
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: LS-ZHI-01
 web_metadata:
   title:
     en: The Lamp That Dispels Darkness:The Stages of Practice for the Path of Prajñāpāramitā
